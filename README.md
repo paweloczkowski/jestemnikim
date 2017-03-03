@@ -4,3 +4,6 @@
 
 ### a to jest 
 
+
+to jest pierwsze dodanie
+iuhiuh
